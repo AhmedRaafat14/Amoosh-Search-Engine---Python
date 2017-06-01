@@ -1,7 +1,10 @@
 """
 	This is a basic script to make very simple search engine, which you can import it in your code and use any function
 		you need from it.
+		Hope It help 
 """
+
+
 
 import requests
 
